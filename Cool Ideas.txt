@@ -1,0 +1,20 @@
+1) Genetic algorithm for pet training
+	a) Coreish
+		- Different "agent" for every pet family
+		- Different, smaller "agent" for every pet
+		- Pets are optimized for getting fed
+		- Unhappy pets optimized more "wildly"
+		- Dissmissing pets upsets them
+		- Dismissed pets "spy" on summoned pets
+	b) Cool
+		- Pet food value grants the pet optimizer higher reward
+		- Pets decide wether to "imitate" or "spite" spyed upon pets
+		- A pets tendency to "imitate" or "spite" other pets is based on the pets personality
+		- All facets of pet behavior are optimized in the paradigm of "species" as a slow learning agent and "pet" as a faster learning agent
+		- If I use neural networks for the optimizers, i can change the size of the net to match a proportions between real life equivalents of pets brain sizes (relative to each other)
+
+2) Hardcore Addon seems to be doable, at least for the band. And pretty straightforward too.
+	- No Delete Character available in API (unsurprising)
+	- Could probably redesign U.I. To have a dark, sombre look for fallen characters
+	- Redesign U.I. on Release Spirit (maybe keep ghost sight)
+	- Make a cool prompt on wailing dungeons quest completion
