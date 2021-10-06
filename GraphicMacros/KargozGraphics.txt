@@ -1,0 +1,85 @@
+/console violencelevel5
+
+--
+
+/console overridefarclip 1
+/console horizonfarclip 6226
+/console groundeffectdensity 256
+/console smallcull 0
+/console skycloudlod 3
+/console characterAmbient 1.0
+/console extshadowquality 4
+/console environmentDetail 2
+/console farclip 2500
+/console groundEffectDist 2500
+/console groundEffectFade 2500 
+
+--
+
+/console overridefarclip 1
+/console horizonfarclip 6226
+/console horizonStart 24000
+/console farclip 24000
+/console terrainLodDist 1500 /console wmoLodDist 1500
+/console entityLodDist 100
+/console groundeffectdensity 256
+/console groundEffectDist 500
+/console groundEffectFade 600 
+
+--
+
+/console doodadLodDist 2000
+/console shadowMode 3
+/console shadowTextureSize 2048
+/console smallcull 0
+/console skycloudlod 3
+/console extshadowquality 5
+/console particleDensity 100
+/console particleMTDensity 100
+/console showfootprints 1 
+
+--
+/console showfootprintparticles 1
+/console environmentDetail 150
+/console terrainMipLevel 0
+/console worldBaseMip 0
+/console WeatherDensity 3
+/console detailDoodadAlpha 100
+/console characterAmbient 1
+
+--
+
+/console ffxGlow 1
+/console ffxDeath 1
+/console reflectionMode 3
+/console rippleDetail 3
+/console sunshafts 2
+/console spellEffectLevel 35
+
+--
+
+/console componentTextureLevel 0
+/console componentSpecular 1
+/console compenentEmissive 1
+/console lodObjectMinSize 1000
+/console lodObjectCullSize 100
+/console lodObjectCullDist 200
+/console lodObjectFadeScale 300
+/console SSAODistance 750 
+
+--
+
+Changes to Your .Config File
+
+SET smallcull "0"
+SET extshadowquality "5"
+SET showfootprints "1"
+SET environmentDetail "150"
+SET detailDoodadAlpha "100"
+SET characterAmbient "1"
+SET spellEffectLevel "35"
+SET overridefarclip "1"
+SET horizonfarclip "24000"
+SET rippleDetail "2.000000"
+SET compenentEmissive "1"
+SET SSAODistance "750"
