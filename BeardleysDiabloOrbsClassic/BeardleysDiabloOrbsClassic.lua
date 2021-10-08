@@ -547,7 +547,7 @@ local function updatePowerType()
 	local powerType = UnitPowerType("player")
 	if (powerType == 0) then -- Mana
 		BDOMod_BlueOrb:SetVertexColor(0.2,0.2,1.0)
-		--BDOMod_BlueOrb:SetAlpha(0.95)
+		BDOMod_BlueOrb:SetAlpha(0.95)
 		BDOMod_BlueOrb:SetTexCoord(0, 1, 0, 1) 
 		return
 	end
