@@ -1,7 +1,8 @@
-/console violencelevel5
+
 
 --
 
+/console violencelevel5
 /console overridefarclip 1
 /console horizonfarclip 6226
 /console groundeffectdensity 256
