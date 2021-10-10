@@ -84,7 +84,8 @@ L["STRING_CLICK_REPORT_LINE2"] = "|cFFFFCC22Shift+Click|r: |cFFFFEE00Fenstermodu
 L["STRING_CLOSEALL"] = "Alle Details!-Fenster sind geschlossen, schreibe '/details show', um sie wieder zu öffnen."
 L["STRING_COLOR"] = "Farbe"
 L["STRING_COMMAND_LIST"] = "Befehlsliste"
-L["STRING_CONTEXT"] = "Zusammenhang"
+--[[Translation missing --]]
+--[[ L["STRING_CONTEXT"] = ""--]] 
 L["STRING_COOLTIP_NOOPTIONS"] = "Keine Optionen"
 L["STRING_CREATEAURA"] = "Aura erstellen"
 L["STRING_CRITICAL_HITS"] = "Kritische Treffer"
@@ -263,8 +264,8 @@ L["STRING_GUILDDAMAGERANK_PLAYERBASE_PLAYER"] = "Spieler"
 L["STRING_GUILDDAMAGERANK_PLAYERBASE_RAID"] = "Alle Spieler"
 L["STRING_GUILDDAMAGERANK_RAID"] = "Schlachtzug"
 L["STRING_GUILDDAMAGERANK_ROLE"] = "Rolle"
-L["STRING_GUILDDAMAGERANK_SHOWHISTORY"] = "Verlauf"
-L["STRING_GUILDDAMAGERANK_SHOWRANK"] = "Gildenrang"
+L["STRING_GUILDDAMAGERANK_SHOWHISTORY"] = "Verlauf zeigen"
+L["STRING_GUILDDAMAGERANK_SHOWRANK"] = "Gildenbank zeigen"
 L["STRING_GUILDDAMAGERANK_SYNCBUTTONTEXT"] = "Mit Gilde synchronisieren"
 L["STRING_GUILDDAMAGERANK_TUTORIAL_DESC"] = "Details! speichert den Schaden und die Heilung für jeden Boss, den du mit deiner Gilde triffst. Durchsuche den Verlauf, indem du das Kästchen'|cFFFFFF00Zeige Gerschichte|r' anklickst. Die Ergebnisse für alle Kämpfe werden angezeigt.\\n Durch Auswahl von '|cFFFFFF00Zeige Gilden Rang|r' werden die Top-Ergebnisse für den ausgewählten Boss angezeigt.\\n\\n\\nWenn Sie dieses Tool zum ersten Mal verwenden oder wenn Sie einen Tag des Schlachtzuges verloren haben, klicken Sie auf die Schaltfläche '|cFFFFFFFFFF00Synchroniesiere mit Gilde|r'."
 L["STRING_GUILDDAMAGERANK_WINDOWALERT"] = "Boss besiegt! Rangliste zeigen"
@@ -290,7 +291,8 @@ L["STRING_INFO_TUTORIAL_COMPARISON1"] = "Klicke auf den |cFFFFDD00Vergleichen|r-
 L["STRING_INSTANCE_CHAT"] = "Instanzchat"
 L["STRING_INSTANCE_LIMIT"] = "Maximale Fensteranzahl erreicht. Dieses Limit kann in den Optionen geändert werden. Geschlossene Fenster können via (#) Fenstermenü wieder angezeigt werden."
 L["STRING_INTERFACE_OPENOPTIONS"] = "Konfigurationsmenü öffnen"
-L["STRING_INVERT_RULE"] = "Regel umkehren"
+--[[Translation missing --]]
+--[[ L["STRING_INVERT_RULE"] = ""--]] 
 L["STRING_ISA_PET"] = "Dies ist ein Begleiter"
 L["STRING_KEYBIND_BOOKMARK"] = "Lesezeichen"
 L["STRING_KEYBIND_BOOKMARK_NUMBER"] = "Lesezeichen #%s"
@@ -507,7 +509,7 @@ L["STRING_OPTIONS_BARSTART_DESC"] = [=[Deaktiviert: Die oberste Textur beginnt a
 Sinnvoll bei Symbolen mit transparenten Rändern.]=]
 L["STRING_OPTIONS_BARUR_ANCHOR"] = "Schnelle Aktualisierung"
 L["STRING_OPTIONS_BARUR_DESC"] = "Aktiviert: DPS/HPS-Werte werden etwas häufiger aktualisiert als üblich."
-L["STRING_OPTIONS_BG_ALL_ALLY"] = "Schlachtfeld Zeige die Feinde"
+L["STRING_OPTIONS_BG_ALL_ALLY"] = "Alle zeigen"
 L["STRING_OPTIONS_BG_ALL_ALLY_DESC"] = [=[Aktiviert: Zeigt auch gegnerische Spieler, wenn das Fenster gruppiert ist.
 
 |cFFFFFF00Wichtig|r: Änderungen werden erst beim nächsten Kampf übernommen.]=]
@@ -602,7 +604,8 @@ L["STRING_OPTIONS_COMBAT_ALPHA_5"] = "Außerhalb einer Instanz"
 L["STRING_OPTIONS_COMBAT_ALPHA_6"] = "Innerhalb einer Instanz"
 L["STRING_OPTIONS_COMBAT_ALPHA_7"] = "Fehler beseitgen im Schlachtzug"
 L["STRING_OPTIONS_COMBAT_ALPHA_8"] = "auf dem Schlachtfeld"
-L["STRING_OPTIONS_COMBAT_ALPHA_9"] = "In Mythisch+"
+--[[Translation missing --]]
+--[[ L["STRING_OPTIONS_COMBAT_ALPHA_9"] = ""--]] 
 L["STRING_OPTIONS_COMBAT_ALPHA_DESC"] = [=[Wähle, wie ein Kampf die Fenstertransparenz beeinflussen soll.
 
 |cFFFFFF00Keine Änderung|r: Transparenz unverändert.
@@ -1298,7 +1301,11 @@ L["STRING_OPTIONS_WC_ANCHOR"] = "Schnelle Fensterkontrolle (#%s):"
 L["STRING_OPTIONS_WC_BOOKMARK"] = "Lesezeichen verwalten"
 L["STRING_OPTIONS_WC_BOOKMARK_DESC"] = "Öffnet das Lesezeichenmenü."
 L["STRING_OPTIONS_WC_CLOSE"] = "Schließen"
-L["STRING_OPTIONS_WC_CLOSE_DESC"] = "Schließt das gerade editierte Fenster. Geschlossen ist das Fenster inaktiv und kann wieder im Fensterkontrollmenü geöffnet werden. |cFFFFFF00Achtung:|r zum endgültigen Löschen eines Fensters gehe zu 'Fenster: Allgemein'."
+L["STRING_OPTIONS_WC_CLOSE_DESC"] = [=[Schließt das gerade editierte Fenster.
+
+Geschlossen ist das Fenster inaktiv und kann wieder im Fensterkontrollmenü geöffnet werden.
+
+|cFFFFFF00Achtung:|r zum endgültigen Löschen eines Fensters gehe zu 'Fenster: Allgemein'.]=]
 L["STRING_OPTIONS_WC_CREATE"] = "Fenster erstellen"
 L["STRING_OPTIONS_WC_CREATE_DESC"] = "Erstellt ein neues Fenster."
 L["STRING_OPTIONS_WC_LOCK"] = "Fixieren"
@@ -1372,12 +1379,10 @@ L["STRING_OPTIONSMENU_ROWTEXTS"] = "Balken: Texte"
 L["STRING_OPTIONSMENU_SKIN"] = "Skinauswahl"
 L["STRING_OPTIONSMENU_SPELLS"] = "Benutzerdefinierte Zauber"
 L["STRING_OPTIONSMENU_SPELLS_CONSOLIDATE"] = "Gleichnamige Zauber zusammenfassen"
-L["STRING_OPTIONSMENU_TITLEBAR"] = "Titelleiste"
 L["STRING_OPTIONSMENU_TITLETEXT"] = "Titelleiste: Text"
 L["STRING_OPTIONSMENU_TOOLTIP"] = "Tooltips"
 L["STRING_OPTIONSMENU_WALLPAPER"] = "Fenster: Hintergrund"
 L["STRING_OPTIONSMENU_WINDOW"] = "Fenster: Allgemein"
-L["STRING_OPTIONSMENU_WINDOWBODY"] = "Fenster-Körper"
 L["STRING_OVERALL"] = "Gesamt"
 L["STRING_OVERHEAL"] = "Überheilung"
 L["STRING_OVERHEALED"] = "überheilt"
@@ -1474,7 +1479,6 @@ L["STRING_RIGHTCLICK_CLOSE_SHORT"] = "Rechtsklick zum Schließen"
 L["STRING_RIGHTCLICK_TYPEVALUE"] = "Rechtsklick, um den Wert einzugeben"
 L["STRING_SCORE_BEST"] = "Du erzieltest |cFF00FF00%s|r - dein bestes Ergebnis !Gratulation!"
 L["STRING_SCORE_NOTBEST"] = "Du erzieltest |cFFFFFF00%s|r, bester Wert ist |cFFFFFF00%s|r von %s mit %d Itemlevel."
-L["STRING_SCRIPTS_TITLE"] = "Scripte"
 L["STRING_SEE_BELOW"] = "siehe unten"
 L["STRING_SEGMENT"] = "Segment"
 L["STRING_SEGMENT_EMPTY"] = "dieses Segment ist leer"
@@ -1552,14 +1556,15 @@ L["STRING_TOTAL"] = "Gesamt"
 L["STRING_TRANSLATE_LANGUAGE"] = "Hilf mit bei der Details!-Übersetzung"
 L["STRING_TUTORIAL_FULLY_DELETE_WINDOW"] = [=[Du hast ein Fenster geschlossen, du kannst es jederzeit erneut öffnen.
 Um ein Fenster komplett zu löschen, gehe zu den Optionen  -> Fenster: Allgemein -> Löschen.]=]
-L["STRING_TUTORIAL_OVERALL1"] = "Gesamtdaten werden nur aktualisiert, wenn der Kampf beendet ist. Wenn du regelmäßige Aktualisierungen wünschst, klicke mit der rechten Maustaste auf die Titelleiste und wähle \"Dynamische Gesamtdaten\"."
+--[[Translation missing --]]
+--[[ L["STRING_TUTORIAL_OVERALL1"] = ""--]] 
 L["STRING_UNKNOW"] = "Unbekannt"
 L["STRING_UNKNOWSPELL"] = "Unbekannter Zauber"
 L["STRING_UNLOCK"] = [=[Fenstergruppe auflösen
  mit dieser Schaltfläche]=]
 L["STRING_UNLOCK_WINDOW"] = "freigeben"
 L["STRING_UPTADING"] = "aktualisiere"
-L["STRING_VERSION_AVAILABLE"] = "Eine neue Version ist verfügbar, lade es von der Curse Forge App oder der Curse Webseite herunter."
+L["STRING_VERSION_AVAILABLE"] = "Eine neue Version ist verfügbar, lade es von der Twitch App oder der Curse Webseite herunter."
 L["STRING_VERSION_UPDATE"] = "Neue Version: Was hat sich geändert? Klicke hier"
 L["STRING_VOIDZONE_TOOLTIP"] = "Schaden und Zeit"
 L["STRING_WAITPLUGIN"] = [=[warte auf

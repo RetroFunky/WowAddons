@@ -1,3 +1,0 @@
-/console actioncam full
-/console actioncam noheadmove
-/console actioncam focusoff

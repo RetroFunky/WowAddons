@@ -1,8 +1,0 @@
-## Interface: 30000
-## Title-enUS: Buddy
-## Version: 0.1.0
-## Author: Szchimer
-## DefaultState: enabled
-
-imports.lua
-Buddy_Core.lua

@@ -1,4 +1,4 @@
-## Interface: 20502
+## Interface: 11307
 ## Title: |cFFFFFFFFQuestie|r|cFF00FF00 v6.6.2|r
 ## Author: Aero/Logon/Muehe/TheCrux(BreakBB)/Drejjmit/Dyaxler/Schaka/Zoey/Everyone else
 ## Notes: A standalone Classic QuestHelper
@@ -20,7 +20,7 @@ Libs\HereBeDragons\HereBeDragons-2.0.lua
 Libs\HereBeDragons\HereBeDragons-Pins-2.0.lua
 Libs\HereBeDragons\HereBeDragons-Migrate.lua
 
-LibsOnlyTBC\LibQuestXP\LibQuestXP.xml
+LibsOnlyClassic\LibQuestXP\LibQuestXP.xml
 
 # Loader module
 Modules\Libs\QuestieLoader.lua
@@ -37,10 +37,6 @@ Database\Classic\classicItemDB.lua
 Database\Classic\classicNpcDB.lua
 Database\Classic\classicObjectDB.lua
 Database\Classic\classicQuestDB.lua
-Database\TBC\tbcItemDB.lua
-Database\TBC\tbcNpcDB.lua
-Database\TBC\tbcObjectDB.lua
-Database\TBC\tbcQuestDB.lua
 Database\QuestieDB.lua
 Database\questDB.lua
 Database\objectDB.lua
@@ -63,12 +59,6 @@ Database\Corrections\Classic\classicNPCFixes.lua
 Database\Corrections\Classic\classicItemFixes.lua
 Database\Corrections\Classic\classicObjectFixes.lua
 
-# TBC Corrections
-Database\Corrections\TBC\tbcQuestFixes.lua
-Database\Corrections\TBC\tbcNPCFixes.lua
-Database\Corrections\TBC\tbcItemFixes.lua
-Database\Corrections\TBC\tbcObjectFixes.lua
-
 # Compiler
 Database\compiler.lua
 
@@ -78,10 +68,10 @@ Localization\Translations\Translations.xml
 
 Localization\lookups\lookupQuestCategories.lua
 Localization\lookups\lookupZones.lua
-Localization\lookups\TBC\lookupItems\lookupItems.xml
-Localization\lookups\TBC\lookupNpcs\lookupNpcs.xml
-Localization\lookups\TBC\lookupObjects\lookupObjects.xml
-Localization\lookups\TBC\lookupQuests\lookupQuests.xml
+Localization\lookups\Classic\lookupItems\lookupItems.xml
+Localization\lookups\Classic\lookupNpcs\lookupNpcs.xml
+Localization\lookups\Classic\lookupObjects\lookupObjects.xml
+Localization\lookups\Classic\lookupQuests\lookupQuests.xml
 
 # Libs
 Modules\Libs\QuestieLib.lua
