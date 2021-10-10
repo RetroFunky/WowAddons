@@ -1,0 +1,7 @@
+## Interface: 20501
+## Title: AbarClassic
+## Author: Boxto
+## SavedVariables: abar
+
+AbarClassic.lua
+AbarClassic.xml
