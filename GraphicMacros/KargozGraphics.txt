@@ -1,28 +1,17 @@
 /console violencelevel5
-
---
-
 /console overridefarclip 1
 /console horizonfarclip 6226
 /console groundeffectdensity 256
 /console smallcull 0
 /console skycloudlod 3
 /console characterAmbient 1.0
-/console extshadowquality 4
 /console environmentDetail 2
-/console farclip 2500
-/console groundEffectDist 2500
-/console groundEffectFade 2500 
 
 --
-
-/console overridefarclip 1
-/console horizonfarclip 6226
 /console horizonStart 24000
 /console farclip 24000
 /console terrainLodDist 1500 /console wmoLodDist 1500
 /console entityLodDist 100
-/console groundeffectdensity 256
 /console groundEffectDist 500
 /console groundEffectFade 600 
 
@@ -31,8 +20,6 @@
 /console doodadLodDist 2000
 /console shadowMode 3
 /console shadowTextureSize 2048
-/console smallcull 0
-/console skycloudlod 3
 /console extshadowquality 5
 /console particleDensity 100
 /console particleMTDensity 100
