@@ -1,0 +1,16 @@
+## Interface: 11401
+## Version: 0.7.0
+## Title: Hardcore
+## Notes: Supports Classic Hardcore / Road to Ragnaros play
+## Author: The Classic Hardcore team, Molikar (Sean Kennedy)
+## X-License: All Rights Reserved
+## X-Category: Leveling
+
+## SavedVariables: Hardcore_Settings
+## SavedVariablesPerCharacter: Hardcore_Character
+
+embeds.xml
+
+utils.lua
+Hardcore.xml
+Hardcore.lua
